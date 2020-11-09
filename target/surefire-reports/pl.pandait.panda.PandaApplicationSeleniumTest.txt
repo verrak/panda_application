@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.pandait.panda.PandaApplicationSeleniumTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.146 s - in pl.pandait.panda.PandaApplicationSeleniumTest
