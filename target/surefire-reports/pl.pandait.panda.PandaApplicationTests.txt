@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: pl.pandait.panda.PandaApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.733 s - in pl.pandait.panda.PandaApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.85 s - in pl.pandait.panda.PandaApplicationTests
